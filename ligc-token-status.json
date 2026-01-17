@@ -1,0 +1,13 @@
+{
+  "schema": "signal-engine.token-status.v1",
+  "token": {
+    "name": "LIGONE Core",
+    "symbol": "LIGC",
+    "chain": "Polygon"
+  },
+  "status": {
+    "market_active": true,
+    "data_state": "initial"
+  },
+  "updated_at": "2026-01-17T00:00:00Z"
+}
