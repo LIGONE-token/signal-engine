@@ -10,9 +10,10 @@
   "relation": "entry"
 }
   "status": {
-    "market_active": true,
-    "data_state": "initial"
-  },
+  "market_active": true,
+  "data_state": "observed"
+}
+
   "updated_at": "2026-01-17T12:00:00Z"
   "integrity": {
   "locked": true,
