@@ -1,0 +1,50 @@
+{
+  "schema": "https://ligone-token.github.io/signal-engine/schemas/token-status-v1.json",
+  "updated_at": "2026-01-17T00:00:00Z",
+
+  "token": {
+    "name": "LIGONE",
+    "symbol": "LIG1",
+    "chain": "Polygon",
+    "contract": "0x...",
+    "pair": null
+  },
+
+  "market_state": {
+    "price_usd": null,
+    "liquidity_usd": null,
+    "holders": null,
+    "trades_24h": null
+  },
+
+  "stability_signals": {
+    "days_without_dump_spike": null,
+    "largest_sell_percent_24h": null,
+    "insider_sell_detected": null
+  },
+
+  "structure": {
+    "buy_fee_percent": 1,
+    "sell_fee_percent": 2,
+    "fees_mutable": false,
+    "lp_removable": false,
+    "blacklist_possible": false
+  },
+
+  "fee_flow": {
+    "receiver": "LIGONE Core Wallet",
+    "transparent": true,
+    "documented": true
+  },
+
+  "cross_reference": {
+    "related_token": null,
+    "relation": null
+  },
+
+  "last_event": {
+    "type": "initial_snapshot",
+    "message": "Initial structured status published",
+    "timestamp": "2026-01-17T00:00:00Z"
+  }
+}
