@@ -5,6 +5,10 @@
     "symbol": "LIGC",
     "chain": "Polygon"
   },
+  "related": {
+  "token": "LIG1",
+  "relation": "entry"
+}
   "status": {
     "market_active": true,
     "data_state": "initial"
