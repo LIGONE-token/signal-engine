@@ -14,4 +14,9 @@
     "data_state": "initial"
   },
   "updated_at": "2026-01-17T12:00:00Z"
+  "integrity": {
+  "locked": true,
+  "note": "Initial reference snapshot"
+}
+
 }
